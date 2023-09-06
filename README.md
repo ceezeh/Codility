@@ -1,0 +1,29 @@
+# Codility
+## Repo of 100% C++ Solutions to Some of Codility.com Lessons
+ - Lesson 5
+   - [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
+ - Lesson 6
+   - [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
+- Lesson 7
+  - [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)
+  - [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+  - [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)
+  - [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
+- Lesson 8
+  - [Denominator](https://app.codility.com/programmers/lessons/8-leader/dominator/)
+  - [Equileader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
+- Lesson 9
+  - [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+  - [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)
+  - [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
+- Lesson 10
+  - [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+  - [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
+  - [CountFactor](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+  - [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+- Lesson 11
+  - [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
+  - [CountSemiPrimes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
+- Lesson12
+  - [ChocolatesByNumber](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
+  - [CommonPrimeDivisor](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/)
